@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-    23-year-old Svelte/Rust enjoyer from Norway.
+    24-year-old Svelte/Rust enjoyer from Norway.
 </p>
