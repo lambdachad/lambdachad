@@ -11,10 +11,10 @@
 
 ### [Lambda](https://github.com/lambdachad/lambda)
 
-The next generation of Emacs, browsers, and native apps. A Rust/wgpu kernel handles all rendering. Everything else is Common Lisp.
+The modern Lisp machine. Blazing fast Rust WGPU kernel + Common Lisp. Replaces your editor, your browser, and all your apps.
 
-- **Rust/wgpu** kernel -- GPU-accelerated rendering, native performance
-- **Common Lisp** -- editor, browser, apps, full extensibility
-- **One platform** -- no Electron, no JS, no compromises
+- No Electron. No JS. No browser engine.
+- One kernel. One runtime. One platform.
+- GPU-rendered. Lisp-powered. Fully hackable.
 
 > *Work in progress.*
