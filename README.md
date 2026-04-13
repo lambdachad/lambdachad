@@ -11,10 +11,10 @@
 
 ### [Lambda](https://github.com/lambdachad/lambda)
 
-The modern Lisp machine. Blazing fast Rust WGPU kernel + Common Lisp. Replaces your editor, your browser, and all your apps.
+The modern Lisp machine. Blazing fast Rust WGPU kernel + Common Lisp. Your entire system, live and hackable
 
-- No Electron. No JS. No browser engine.
-- One kernel. One runtime. One platform.
-- GPU-rendered. Lisp-powered. Fully hackable.
+- **Kernel** -- Rust, WGPU, GPU-accelerated rendering
+- **Runtime** -- Common Lisp, fully programmable, fully extensible
+- **Replaces** -- editor, browser, native apps, all in one
 
 > *Work in progress.*
