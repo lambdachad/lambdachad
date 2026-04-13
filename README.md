@@ -11,7 +11,7 @@
 
 ### [Lambda](https://github.com/lambdachad/lambda)
 
-The modern Lisp machine. Blazing fast Rust WGPU kernel + Common Lisp. LiveView on steroids.
+The modern Lisp machine. Blazing fast Rust WGPU kernel + Common Lisp. Realtime connectivity like LiveView, but on steroids.
 
 - **Kernel** -- Rust, WGPU, GPU-accelerated rendering
 - **Runtime** -- Common Lisp, fully programmable, fully extensible
